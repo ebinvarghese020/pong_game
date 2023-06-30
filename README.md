@@ -29,7 +29,8 @@ paddle and score points. The game provides an engaging and interactive experienc
 
 - Clone the repository or download the source code files.
 - Open the terminal or command prompt and navigate to the project directory.
-- Run the following command to start the game: '''python main.p'''
+- Run the following command to start the game:
+```python main.p```
 
 ## Acknowledgments
 
