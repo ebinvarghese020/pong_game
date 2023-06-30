@@ -4,9 +4,9 @@ A classic arcade game built using Python classes and the Turtle module, where tw
 paddle and score points. The game provides an engaging and interactive experience, allowing players to test their reflexes and compete for high scores.
 
 ## Features
-'**Two-Player Mode**': Enjoy a head-to-head competition with a friend, where each player controls their own paddle using arrow keys (Player 1) and W/S keys (Player 2).
-'**Realistic Gameplay**': Experience smooth and responsive ball movement, paddle collisions, and realistic physics, providing an authentic gaming experience.
-'**Score Tracking**': Keep track of each player's score throughout the game and display it on the screen. The scores are updated dynamically as the game progresses.
+- '**Two-Player Mode**': Enjoy a head-to-head competition with a friend, where each player controls their own paddle using arrow keys (Player 1) and W/S keys (Player 2).
+- '**Realistic Gameplay**': Experience smooth and responsive ball movement, paddle collisions, and realistic physics, providing an authentic gaming experience.
+- '**Score Tracking**': Keep track of each player's score throughout the game and display it on the screen. The scores are updated dynamically as the game progresses.
 
 
 ## How to Play
